@@ -1,0 +1,15 @@
+C:\Users\rokob\source\repos\RSSVLV1RB\RSSVLV1RB\bin\Debug\netcoreapp3.1\RSSVLV1RB.exe
+C:\Users\rokob\source\repos\RSSVLV1RB\RSSVLV1RB\bin\Debug\netcoreapp3.1\RSSVLV1RB.deps.json
+C:\Users\rokob\source\repos\RSSVLV1RB\RSSVLV1RB\bin\Debug\netcoreapp3.1\RSSVLV1RB.runtimeconfig.json
+C:\Users\rokob\source\repos\RSSVLV1RB\RSSVLV1RB\bin\Debug\netcoreapp3.1\RSSVLV1RB.runtimeconfig.dev.json
+C:\Users\rokob\source\repos\RSSVLV1RB\RSSVLV1RB\bin\Debug\netcoreapp3.1\RSSVLV1RB.dll
+C:\Users\rokob\source\repos\RSSVLV1RB\RSSVLV1RB\bin\Debug\netcoreapp3.1\RSSVLV1RB.pdb
+C:\Users\rokob\source\repos\RSSVLV1RB\RSSVLV1RB\obj\Debug\netcoreapp3.1\RSSVLV1RB.Form1.resources
+C:\Users\rokob\source\repos\RSSVLV1RB\RSSVLV1RB\obj\Debug\netcoreapp3.1\RSSVLV1RB.csproj.GenerateResource.cache
+C:\Users\rokob\source\repos\RSSVLV1RB\RSSVLV1RB\obj\Debug\netcoreapp3.1\RSSVLV1RB.AssemblyInfoInputs.cache
+C:\Users\rokob\source\repos\RSSVLV1RB\RSSVLV1RB\obj\Debug\netcoreapp3.1\RSSVLV1RB.AssemblyInfo.cs
+C:\Users\rokob\source\repos\RSSVLV1RB\RSSVLV1RB\obj\Debug\netcoreapp3.1\RSSVLV1RB.csproj.CoreCompileInputs.cache
+C:\Users\rokob\source\repos\RSSVLV1RB\RSSVLV1RB\obj\Debug\netcoreapp3.1\RSSVLV1RB.dll
+C:\Users\rokob\source\repos\RSSVLV1RB\RSSVLV1RB\obj\Debug\netcoreapp3.1\RSSVLV1RB.pdb
+C:\Users\rokob\source\repos\RSSVLV1RB\RSSVLV1RB\obj\Debug\netcoreapp3.1\RSSVLV1RB.genruntimeconfig.cache
+C:\Users\rokob\source\repos\RSSVLV1RB\RSSVLV1RB\obj\Debug\netcoreapp3.1\RSSVLV1RB.csproj.AssemblyReference.cache
